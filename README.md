@@ -7,9 +7,9 @@
  
 ## Tech Stack
 
-**Client:** ReactJS, HTML5, CSS3
+**UI:** ReactJS, HTML5, CSS3
 
-**Server:** EmailJS, NodeJS
+**Backend:** EmailJS, NodeJS
 
 
 
