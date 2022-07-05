@@ -3,6 +3,13 @@
 
  There are many things that have to be done when organizing an event; these things take a lot of time, and usually multiple people, 
  to get various tasks done.  Anyone who has planned an event knows what a chaotic mess it can be to find reliable catering, and this has only gotten more challenging with the rise of virtual events. So we can solve all these problems by using an event organiser(Elicit Events). We made a website in which you just need to leave a  message so that we will get in touch with you and further process will be taken care of by our event planners. A professional event planner(Elicit Events) knows what to expect, making them a tremendous asset to both corporate and social events
+ 
+ 
+## Tech Stack
+
+**Client:** ReactJS, HTML5, CSS3
+
+**Server:** EmailJS, NodeJS
 
 
 
@@ -26,10 +33,5 @@ ent](https://user-images.githubusercontent.com/68786151/177297543-75a571d8-2907-
 [Documentation](https://docs.google.com/document/d/17Bi_OY0GtZgBc6cjkLbdc4_kEnLI1Il1bRxtvi4x1oU/edit?usp=sharing)
 
 
-## Tech Stack
-
-**Client:** ReactJS, HTML5, CSS3
-
-**Server:** EmailJS, NodeJS
 
 
