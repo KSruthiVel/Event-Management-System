@@ -1,0 +1,98 @@
+.menu {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #07090a;
+}
+.menu .menuTitle {
+  font-size: 60px;
+  letter-spacing: 1px;
+  color: #a69cac;
+  font-weight: 100;
+}
+
+.menuList {
+  width: 70vw;
+  height: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  place-items: center;
+  color: #161b33;
+  letter-spacing: 1px;
+  opacity: 0.85;
+
+}
+
+/* MENU ITEM STYLING */
+
+.menuItem {
+  border-radius: 15px;
+  width: 300px;
+  height: 350px;
+  margin: 20px;
+  background-color: rgba(166, 156, 172, 0.9);
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+  
+}
+.menuItem:hover {
+  box-shadow: 0px 3px 15px rgba(166, 156, 172, 0.6);
+  transition: 0.3s ease-in;
+  cursor: pointer;
+}
+
+.menuItem div {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  width: 100%;
+  height: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.menuItem h1,
+.menuItem p {
+  margin-left: 20px;
+  padding-top: 10%;
+  font-size: 30px;
+  text-align: center;
+}
+
+.menuItem button {
+  color: black;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  justify-content: center;
+  background-color: #474973;
+  height: 50px;
+  width: 150px;
+  color: #f1dac4;
+  text-decoration: none;
+  text-align: center;
+  font-size: 20px;
+  margin-left: 25%;
+}
+
+.menuItem button:hover {
+  background-color: rgba(166, 156, 172, 0.8);
+  cursor: pointer;
+  transition: 0.3s ease-in;
+  color: #161b33;
+}
+
+
+@media only screen and (max-width: 1300px) {
+  .menuList {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .menuList {
+    grid-template-columns: 1fr;
+  }
+}

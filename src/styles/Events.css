@@ -1,0 +1,68 @@
+.corporate, .social, .festive, .community, .wedding, .party{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    background-color: #07090a;
+    font-family: "Fredoka", sans-serif;
+    
+}
+.gif{
+    width: 580px;
+    margin-left: 3%;
+    margin-top: 3%;
+    opacity: 0.7;
+}
+.wedding .gif{
+    width: 480px;
+}
+.eventTitle{
+    color: #a69cac;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 300;
+}
+.content{
+    padding: 7px;
+    color: #a69cac;
+    text-align: justify;
+    margin-top: -24%;
+    margin-left: 47%;
+    margin-right: 2%;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: 1px;
+}
+.wedding .content{
+    margin-left: 38%;
+    margin-top: -20%;
+}
+.festive .content{
+    margin-top: -18%;
+}
+ul{
+    margin-top: 1%;
+    margin-left: -1%;
+}
+.corporate button, .social button, .festive button, .community button, .wedding button, .party button {
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    justify-content: center;
+    background-color: #474973;
+    height: 50px;
+    width: 200px;
+    color: #f1dac4;
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 80%;
+    margin-top: -10%;
+}
+.corporate button:hover, .social button:hover, .festive button:hover, .community button:hover, .wedding button:hover, .party button:hover{
+    background-color: rgba(166, 156, 172, 0.8);
+    cursor: pointer;
+    transition: 0.3s ease-in;
+    color: #161b33;
+  }
