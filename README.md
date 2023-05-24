@@ -1,9 +1,7 @@
 
 # Event Management Application
 
- There are many things that have to be done when organizing an event; these things take a lot of time, and usually multiple people, 
- to get various tasks done.  Anyone who has planned an event knows what a chaotic mess it can be to find reliable catering, and this has only gotten more challenging with the rise of virtual events. So we can solve all these problems by using an event organiser(Elicit Events). We made a website in which you just need to leave a  message so that we will get in touch with you and further process will be taken care of by our event planners. A professional event planner(Elicit Events) knows what to expect, making them a tremendous asset to both corporate and social events
- 
+The Event Planning Web Application simplifies the event planning process by providing a user-friendly platform for clients to access a variety of services, such as venue booking, decor, and production timeline creation. The application allows clients to easily submit their details and message through a contact form, which is followed by prompt assistance from the staff for further processing. The web application ensures the event is safe and well-managed, taking into account various regulations and requirements set by different organizations, government departments, and regulatory authorities.
  
 ## Tech Stack
 
