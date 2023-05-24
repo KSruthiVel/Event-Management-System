@@ -3,6 +3,7 @@
 <div align="justify">
 The Event Planning Web Application simplifies the event planning process by providing a user-friendly platform for clients to access a variety of services, such as venue booking, decor, and production timeline creation. The application allows clients to easily submit their details and message through a contact form, which is followed by prompt assistance from the staff for further processing. The web application ensures the event is safe and well-managed, taking into account various regulations and requirements set by different organizations, government departments, and regulatory authorities.
  </div>
+ 
 ## Tech Stack
 
 **UI:** ReactJS, HTML5, CSS3
