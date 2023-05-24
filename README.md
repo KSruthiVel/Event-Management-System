@@ -1,5 +1,7 @@
-
-# Event Management Application
+<h1 align="center">
+# Event Management System
+ </h1>
+ 
 <div align="justify">
 The Event Planning Web Application simplifies the event planning process by providing a user-friendly platform for clients to access a variety of services, such as venue booking, decor, and production timeline creation. The application allows clients to easily submit their details and message through a contact form, which is followed by prompt assistance from the staff for further processing. The web application ensures the event is safe and well-managed, taking into account various regulations and requirements set by different organizations, government departments, and regulatory authorities.
  </div>
@@ -9,8 +11,6 @@ The Event Planning Web Application simplifies the event planning process by prov
 **UI:** ReactJS, HTML5, CSS3
 
 **Backend:** EmailJS, NodeJS
-
-
 
 ## Screenshots
 
@@ -26,10 +26,6 @@ The Event Planning Web Application simplifies the event planning process by prov
 ![Party-Event](https://user-images.githubusercontent.com/68786151/177297556-95f47468-c8a4-4e4a-8abe-06e48966c402.png)
 ent](https://user-images.githubusercontent.com/68786151/177297543-75a571d8-2907-4e24-80a5-83e12be44283.png)
 
-
-## Documentation
-
-[Documentation](https://docs.google.com/document/d/17Bi_OY0GtZgBc6cjkLbdc4_kEnLI1Il1bRxtvi4x1oU/edit?usp=sharing)
 
 
 
