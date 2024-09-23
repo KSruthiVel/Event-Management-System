@@ -6,7 +6,10 @@
 The Event Planning Web Application simplifies the event planning process by providing a user-friendly platform for clients to access a variety of services, such as venue booking, decor, and production timeline creation. The application allows clients to easily submit their details and message through a contact form, which is followed by prompt assistance from the staff for further processing. The web application ensures the event is safe and well-managed, taking into account various regulations and requirements set by different organizations, government departments, and regulatory authorities.
  </div>
 
- ### Features
+<h3 align="left">
+ Features
+ </h3>
+ 
 - **Event Planning Support:** Users can reach out to professional event planners by leaving a message through the website. Planners will handle everything from venue selection to logistics.
 - **User-Friendly Interface:** The application provides an intuitive interface for users to explore different services and connect with planners.
 - **Service Categories:** Includes a wide range of event services such as corporate events, social gatherings, weddings, and more.
