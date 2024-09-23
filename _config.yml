@@ -1,0 +1,14 @@
+# Site settings
+title: "Event Management System"
+description: "A web application that connects users with professional event planners to organize and manage events efficiently."
+
+# Theme settings
+remote_theme: pages-themes/minimal@v0.2.0
+
+# Plugin settings
+plugins:
+  - jekyll-remote-theme
+  
+# Display settings
+show_downloads: false
+show_title: false
