@@ -6,14 +6,32 @@
 The Event Planning Web Application simplifies the event planning process by providing a user-friendly platform for clients to access a variety of services, such as venue booking, decor, and production timeline creation. The application allows clients to easily submit their details and message through a contact form, which is followed by prompt assistance from the staff for further processing. The web application ensures the event is safe and well-managed, taking into account various regulations and requirements set by different organizations, government departments, and regulatory authorities.
  </div>
  
+ ### Features
+- **Event Planning Support:** Users can reach out to professional event planners by leaving a message through the website. Planners will handle everything from venue selection to logistics.
+- **User-Friendly Interface:** The application provides an intuitive interface for users to explore different services and connect with planners.
+- **Service Categories:** Includes a wide range of event services such as corporate events, social gatherings, weddings, and more.
+  
 ## Tech Stack
+- **Frontend:** React.js for building a dynamic and responsive user interface.
+- **Backend:** Node.js for server-side logic and API handling.
+- **Email Integration:** EmailJS for client-side email communication without the need for a server.
+- **Styling:** HTML5 and CSS3 for structure and design.
 
-**UI:** ReactJS, HTML5, CSS3
-
-**Backend:** EmailJS, NodeJS
-
+### System Requirements
+- **Operating System:** Linux, Windows 7 or higher.
+- **Internet Browser:** Chrome, Firefox, Microsoft Edge, etc.
+- **Node.js and necessary packages:**
+  - `@material-ui/core`
+  - `@material-ui/icons`
+  - `emailjs-com`
+  - `react`
+  - `react-dom`
+  - `react-router-dom`
+  - `react-scripts`
+  - `sweetalert`
+  - `web-vitals`
+  
 ## Screenshots
-
 ![Home](https://user-images.githubusercontent.com/68786151/177297269-1d521191-9fe2-4001-a520-ac010e2ca9b1.png)
 ![Events Page](https://user-images.githubusercontent.com/68786151/177297349-2c2d27c5-4c1a-47b3-bd79-57c49a8f1970.png)
 ![About us](https://user-images.githubusercontent.com/68786151/177297300-b09c1da0-6b0a-40c6-b7ca-0c97cc0ec948.png)
